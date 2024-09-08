@@ -1,0 +1,8 @@
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/CMakeFiles/edit_cache.dir
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/CMakeFiles/rebuild_cache.dir
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/mathfuncs/CMakeFiles/math_funcs.dir
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/mathfuncs/CMakeFiles/edit_cache.dir
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/mathfuncs/CMakeFiles/rebuild_cache.dir
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/src/CMakeFiles/main_app.dir
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/src/CMakeFiles/edit_cache.dir
+/home/kate/Downloads/CplusPlusCmake-master/Lesson01/build/src/CMakeFiles/rebuild_cache.dir
