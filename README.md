@@ -1,1 +1,1 @@
-It`s my first little project with C++, with divide, square, multiply
+It`s my way about learning C++
